@@ -1,9 +1,9 @@
     ───────────
-    КУПЛЕТ:       [Am] [G] | [F] [G] | [Am] [G] | [F] [G]
-    PIANO SOLO:   [Am] [F] [G] | [Am] [F] [G] | x 2
-    ПРИПЕВ:       [F] [Am] [G] | x 3 | [F] [G]
-    INSTRUMENTAL: [F] [C] [Am] [G]
-    МОСТ:         [F] [C] [Am] | [G] | x 2
+    КУПЛЕТ:       [Am][G]|[F][G]|[Am][G]|[F][G]
+    PIANO SOLO:   [Am][F][G]|[Am][F][G]|| x 2
+    ПРИПЕВ:       [F][Am][G]| x 3 |[F][G]
+    INSTRUMENTAL: [F][C][Am][G]
+    МОСТ:         [F][C][Am]|[G]|| x 2
     ───────────
 
     КУПЛЕТ (1):
@@ -19,8 +19,8 @@
 
     PIANO SOLO:
 
-    [Am] [F] [G] | [Am] [F] [G]
-    [Am] [F] [G] | [Dm] [F] [G]
+    [Am][F][G] | [Am][F][G]
+    [Am][F][G] | [Dm][F][G]
 
     КУПЛЕТ (2):
 
@@ -35,18 +35,18 @@
 
     ПРИПЕВ:
 
-          [F] [Am] [G]
+          [F][Am][G]
     Жажду Тебя  я  Иисус
-          [F] [Am] [G]
+          [F][Am][G]
     Жажду воды  я  живой
-          [F] [Am] [G]
+          [F][Am][G]
     Жду лишь Тебя  я  Иисус
-          [F] [G]
+          [F][G]
     Только Ты  нужен мне.
 
     INSTRUMENTAL:
 
-    [F] [C] [Am] [G]
+    [F][C][Am][G]
 
     МОСТ:
 

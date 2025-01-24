@@ -1,12 +1,6 @@
 .idea/
-.idea/*
-target/
-target/*
-build/
-build/*
-node_modules/*
-bin
-**/.DS_Store
+.idea/*[target/]target/*[build/]build/*
+node_modules/*[bin]**/.DS_Store
 package-lock.toJson
 node-module-dependency-tree.svg
 circular-dependency-visualization.html
