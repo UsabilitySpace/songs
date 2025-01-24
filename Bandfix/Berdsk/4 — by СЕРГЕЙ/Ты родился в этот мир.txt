@@ -6,13 +6,13 @@
         Dm   C/E   Gsus/H   G/H | 
         Dm   C/E   Gsus   G 
     CHORUS: 
-        G/E F G | 
-        Em7 Am | 
-        F G | 
-        E/G# Am | 
-        Am/G F G | 
-        E/G# Am G F | 
-        G | 
+        G/E   F   G   |
+        Em7   Am   |
+        F   G   |
+        E/G#   Am   |
+        Am/G   F   G   |
+        E/G#   Am   G   F   |
+        G   |
     INSTRUMENTAL: 
         D    A  |  Em  |  D    A/C#  |  Em    G  | 
         Hm   A  |  G   |  Em   D     |  A/C#  A 
